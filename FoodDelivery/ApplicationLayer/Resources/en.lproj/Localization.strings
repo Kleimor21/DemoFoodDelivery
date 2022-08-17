@@ -1,0 +1,45 @@
+/* 
+  Localization.strings
+  FoodDelivery
+
+  Created by MacBook on 02/04/2022.
+  
+*/
+
+"home.title" = "Find Your\nFavorite Food";
+"homeView.popularMenu" = "Popular Menu";
+"homeView.logoutButton" = "Logout";
+"onboardingFirst.title" = "Find your  Comfort\nFood here";
+"onboardingFirst.subtitle" = "Here You Can find a chef or dish for every\ntaste and color. Enjoy!";
+"onboardingFirst.nextButton" = "Next";
+"onboardingSecond.title" = "Food Ninja is Where Your\nComfort Food Lives";
+"onboardingSecond.subtitle" = "Enjoy a fast and smooth food delivery at\nyour doorstep";
+"onboardingSecond.nextButton" = "Next";
+"mainTab.homeItem" = "Home";
+"mainTab.profileItem" = "Profile";
+"mainTab.cartItem" = "Cart";
+"mainTab.chatItem" = "Chat";
+"completionRegistration.title" = "Congrats!";
+"completionRegistration.subtitle" = "Your Profile Is Ready To Use";
+"completionRegistration.tryOrderButton" = "Try Order";
+"signIn.loginViaFacebookButton" = "Facebook";
+"signIn.loginViaGoogleButton" = "Google";
+"signIn.loginLabel" = "Login To Your Account";
+"signIn.emailTF.textField.placeholder" = "Email";
+"signIn.passwordTF.textField.placeholder" = "Password";
+"signIn.loginMethodLabel" = "Or Continue With";
+"signIn.forgotPasswordButton.setTitle" = "Forgot Your Password?";
+"signIn.signUpButton.setTitle" = "Sign UP";
+"signIn.signInButton.setTitle" = "Create Account";
+"signUp.keepMeCheckBox" = "Keep Me Signed In";
+"signUp.emailMeCheckBox" = "Email Me About Special Pricing";
+"signUp.loginLabel" = "Sign Up For Free ";
+"signUp.userName.placeholder" = "Anamwp . . |";
+"signUp.emailTF.placeholder" = "Email";
+"signUp.passwordTF.placeholder" = "Enter password ... ";
+"signUp.signUpButton" = "Create Account";
+"signUp.haveAnAccountButton" = "already have an account?";
+"searchInput.textField" = "What do you want to order?";
+"priceMenu.dishNameLabel" = "Herbal Pancake";
+"priceMenu.warungHerbalLabel" = "Warung Herbal";
+"priceMenu.pricLabel" = "$7";
